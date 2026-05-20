@@ -1,5 +1,12 @@
-# 💫 About Me:
-Aayush Singh Rajput | Full-Stack Developer (MERN)<br>Undergraduate developer from Dharan, Nepal, building clean, responsive, and scalable web and mobile applications using MERN, Next.js, React Native, and SQL databases, with experience integrating AI-powered features into real-world projects.
+## About Me
+
+Full Stack Developer building scalable, production-ready web applications — from MERN stack platforms to AI-powered learning systems. With 8 months of internship experience across e-commerce, HR tech, and AI integration, I've shipped real products used by real users.
+
+I'm particularly interested in the intersection of full stack engineering and AI — having built an RAG-based teaching assistant (SmartPrep), a facial analysis ML app, and an AI chatbot trained on Nepal's Constitution. I led a team of interns at Nexalaris, contributed to a React Native app, and improved legacy code performance by 40% at BlueFox.
+
+Currently finishing my B.E. in Computer Engineering (IOE, Purwanchal Campus, 2026) and actively seeking full stack or AI-integrated developer roles — locally in Nepal or remote for international teams.
+
+**Open to:** Full Stack roles · Junior AI/ML positions · Freelance projects · Remote opportunities
 
 
 ## 🌐 Socials:
